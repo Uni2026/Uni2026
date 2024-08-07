@@ -1,6 +1,5 @@
 ## Welcome to my Github Profile!
 
-<!--
 
 👋 Hi there! I'm Janiah
 
@@ -13,3 +12,4 @@
 🌟 Passionate about technology and its potential to create wonders
 
 ☕ When I'm not coding, you can find me exploring new tech or baking
+

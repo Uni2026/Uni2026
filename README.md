@@ -1,16 +1,16 @@
-## Hi there 👋
+## Welcome to my Github Profile!
 
 <!--
 **Uni2026/Uni2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 👋 Hi there! I'm Janiah
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 BE Computer Science student at BITS Pilani Dubai Campus 
+
+💻 Aspiring Data Scientist 
+
+🔧 Learning and working with Java, C, C++ and Python | Exploring AI
+
+🌟 Passionate about technology and its potential to create wonders
+
+☕ When I'm not coding, you can find me exploring new tech or baking

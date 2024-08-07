@@ -1,7 +1,7 @@
-##                                                                     Welcome to my Github Profile!
+ ## Welcome to my Github Profile!
 
 
-👋 Hi there! I'm Janiah
+### 👋 Hi there! I'm Janiah
 
 🎓 BE Computer Science student at BITS Pilani Dubai Campus 
 
